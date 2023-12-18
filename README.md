@@ -21,29 +21,29 @@ This application is designed to manage candidate records by allowing users to up
 ## Installation
 
 1. Clone the repository:
-
+```
 git clone https://github.com/JaiSehgal007/ExcelInflux/
-
+```
 
 2. Navigate to the backend directory:
-
+```
 cd backend
-
+```
 
 3. Install backend dependencies:
-
+```
 npm install
-
+```
 
 4. Navigate to the frontend directory:
-
+```
 cd ../frontend
-
+```
 
 5. Install frontend dependencies:
-
+```
 npm install
-
+```
 
 ## Configuration
 
@@ -59,15 +59,16 @@ npm install
 ## Usage
 
 1. Start the backend server:
-
+```
 cd backend
 npm start
-
+```
 
 2. Start the frontend application:
-
+```
 cd frontend
 npm start
+```
 
 3. Access the application in your browser at `http://localhost:3000`.
 
